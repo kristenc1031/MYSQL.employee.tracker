@@ -71,14 +71,3 @@ const viewRole = () => {
       connection.end();
     });
 };
-
-
-
-
-
-
-
-
-// app.listen(PORT, () => {
-//     console.log('App listening on PORT: ${PORT}');
-// });
